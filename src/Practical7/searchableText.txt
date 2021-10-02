@@ -1,0 +1,4 @@
+this is a random file which has random characters and letters and
+repeats repeats repeats values values random characters this 
+isa file that has random characters that could be used for testing 
+string searching searching searching values acatacaacacagt END
